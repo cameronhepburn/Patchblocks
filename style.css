@@ -1,0 +1,24 @@
+.navbar {
+    height: 50px;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    max-width: 500px;
+}
+
+.container {
+    margin: 40px;
+}
+
+body {
+    background: #C2E0FF;
+}
