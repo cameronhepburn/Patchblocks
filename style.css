@@ -1,6 +1,8 @@
-.navbar {
-    height: 50px;
+.navbar-fixed-top {
+    height: 40px;
     background-color: white;
+    width: 100%;
+    opacity: .8;
 }
 
 h1 {
@@ -12,7 +14,8 @@ p {
 }
 
 img {
-    max-width: 500px;
+    max-width: 300px;
+    float: left;
 }
 
 .container {
